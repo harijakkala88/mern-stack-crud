@@ -8,7 +8,7 @@ let dbConfig = require('./database/db');
 const studentRoute = require('../backend/routes/student.route')
 
 // Configure mongoDB Database
-// mongoose.set('useNewUrlParser', true);
+//mongoose.set('useNewUrlParser', true);
 // mongoose.set('useFindAndModify', false);
 // mongoose.set('useCreateIndex', true);
 // mongoose.set('useUnifiedTopology', true);
